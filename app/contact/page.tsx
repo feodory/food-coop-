@@ -259,7 +259,7 @@ export default function ContactPage() {
               {
                 question: "What are your office hours?",
                 answer:
-                  "Our office is open Monday through Thursday from 10:00 AM to 4:00 PM, and Friday from 10:00 AM to 2:00 PM. We are closed on weekends.",
+                  "Our office is open Monday through Friday from 11:00 AM to 3:00 PM. We are closed on weekends.",
               },
               {
                 question: "How quickly do you respond to emails?",
